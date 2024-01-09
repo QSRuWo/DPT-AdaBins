@@ -1,0 +1,16 @@
+/kitchen_0028b/rgb_00045.jpg /kitchen_0028b/sync_depth_00045.png 518.8579
+/living_room_0019/rgb_00111.jpg /living_room_0019/sync_depth_00111.png 518.8579
+/playroom_0004/rgb_00113.jpg /playroom_0004/sync_depth_00113.png 518.8579
+/kitchen_0047/rgb_00050.jpg /kitchen_0047/sync_depth_00050.png 518.8579
+/bedroom_0067a/rgb_00010.jpg /bedroom_0067a/sync_depth_00010.png 518.8579
+/bedroom_0060/rgb_00081.jpg /bedroom_0060/sync_depth_00081.png 518.8579
+/kitchen_0029b/rgb_00016.jpg /kitchen_0029b/sync_depth_00016.png 518.8579
+/bedroom_0052/rgb_00170.jpg /bedroom_0052/sync_depth_00170.png 518.8579
+/furniture_store_0002c/rgb_00027.jpg /furniture_store_0002c/sync_depth_00027.png 518.8579
+/kitchen_0051/rgb_00113.jpg /kitchen_0051/sync_depth_00113.png 518.8579
+/living_room_0004/rgb_00077.jpg /living_room_0004/sync_depth_00077.png 518.8579
+/bedroom_0100/rgb_00021.jpg /bedroom_0100/sync_depth_00021.png 518.8579
+/living_room_0047b/rgb_00003.jpg /living_room_0047b/sync_depth_00003.png 518.8579
+/kitchen_0031/rgb_00088.jpg /kitchen_0031/sync_depth_00088.png 518.8579
+/bedroom_0086/rgb_00088.jpg /bedroom_0086/sync_depth_00088.png 518.8579
+/playroom_0002/rgb_00111.jpg /playroom_0002/sync_depth_00111.png 518.8579
